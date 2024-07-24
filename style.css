@@ -110,8 +110,8 @@ li {
 
     button {
         margin-top: 0.8rem;
-        font-weight: 700;
-        width: 40%;
+        font-weight: 600;
+        width: 70%;
     }
 }
 
@@ -130,7 +130,7 @@ li {
     }
 
     button {
-        font-size: 1.3rem;
+        font-size: 0.9rem;
         padding: 10px 15px;
     }
 
@@ -139,8 +139,4 @@ li {
         padding: 10px;
     }
 
-    li:before {
-        left: 10px;
-        font-size: 1.2rem;
-    }
 }
